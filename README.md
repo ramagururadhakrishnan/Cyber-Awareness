@@ -3,5 +3,8 @@
 
 ## Case Studies 
 
+- OSINT 
+- Maltego
+- Fake Data Generator
 
 
